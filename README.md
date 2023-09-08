@@ -1,5 +1,11 @@
 # Legal LFQA with reasoning
 
+## 0. Installing dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
 ## 1. Dataset Generation
 
 ### 1.1 Downloading the CaseHold dataset
